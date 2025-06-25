@@ -1,0 +1,36 @@
+# Page snapshot
+
+```yaml
+- heading "Multi-AI Chat" [level=1]
+- button "New Conversation":
+  - img
+  - text: New Conversation
+- button "Test message for tree styling validation... 3 messages • 6/25/2025":
+  - img
+  - text: Test message for tree styling validation... 3 messages • 6/25/2025
+- button "Settings":
+  - img
+  - text: Settings
+- heading "New Conversation" [level=2]
+- text: Conversation Tree • 3 messages • Chat with multiple AI providers simultaneously
+- button "Collapse All"
+- img
+- text: You 10:32:30 AM Test message for tree styling validation
+- img
+- text: OpenAI gpt-4 10:32:33 AM I'm a simulated OpenAI assistant. How can I help you today?
+- textbox "Chat with multiple AI providers simultaneously..."
+- button "Send" [disabled]:
+  - img
+  - text: Send
+- img
+- text: Claude claude-3 10:32:33 AM Hello! I'm a simulated Claude response for testing purposes.
+- textbox "Chat with multiple AI providers simultaneously..."
+- button "Send" [disabled]:
+  - img
+  - text: Send
+- textbox "Chat with multiple AI providers simultaneously..."
+- button "Send" [disabled]:
+  - img
+  - text: Send
+- alert
+```
